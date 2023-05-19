@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://img.freepik.com/free-vector/realistic-clouds-abstract-composition-with-overcast-gray-clouds-sky_1284-33932.jpg?w=2000');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  h1 {
+    text-align:center;
+    color: #1e1b1c;
+    margin-top: 0px;
+    
+  }
+  
+  #weather-form {
+    text-align: center;
+    margin-bottom: 30px;
+    
+  }
+  
+  #weather-result {
+   text-align: center;
+   
+    /* text-align: center; */
+    margin-bottom: 30px;
+    color: #0e021a;
+    /* background-color: rgba(45, 40, 90, 0.7); */
+    background: linear-gradient(rgb(117, 117, 171)30%,#272cb8);
+    width: 500px;
+    height:300px;
+    margin-left: 480px;
+    margin-top:2cm;
+    border-radius: 25px;
+    padding-top: 5%;
+    
+  }
+  
+  #visualization {
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 10px;
+    align-content: center;
+    margin-top: 10px;
+    
+  }
+  .head{
+    text-decoration: none;
+    background-color: rgb(237, 237, 231);
+    width: 100%;
+    height: 5vh;
+    
+  }
+  /* .wf{
+    background-color: aquamarine;
+    text-align: center;
+    width: 1000%;
+    height: 10vh;
+    margin-bottom: 50px;
+  } */
+  
